@@ -1,6 +1,7 @@
 from aiogram import Bot, Dispatcher, types
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 import asyncio
+# не успел google sheets и не добавил условие для отправки сообщнеия об игнорировании
 
 # указать токен бота и telegram id, куда будут присылаться выполнено/невыполнено/проигнорировано
 
